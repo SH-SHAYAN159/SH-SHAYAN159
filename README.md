@@ -1,3 +1,4 @@
+<img width="1312" height="1199" alt="4361d886-67c7-4cef-9acb-a59846475b9d" src="https://github.com/user-attachments/assets/82e61f60-e812-4e77-9a5e-e4ca300213cf" />
 # Hey, I'm Shayan 👋
 
 ### `some random kid from PRC`
