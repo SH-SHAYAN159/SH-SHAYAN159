@@ -1,4 +1,6 @@
-<img width="1312" height="1199" alt="4361d886-67c7-4cef-9acb-a59846475b9d" src="https://github.com/user-attachments/assets/82e61f60-e812-4e77-9a5e-e4ca300213cf" />
+<img width="1983" height="793" alt="WFv43yry5zXoFADHPj6OeG7UfI4-NeMU6GHYRNOsr1Sk61l-zA" src="https://github.com/user-attachments/assets/877380dd-122e-4785-9fba-8703be4bb972" />
+
+
 # Hey, I'm Shayan 👋
 
 ### `some random kid from PRC`
