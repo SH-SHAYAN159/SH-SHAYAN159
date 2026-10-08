@@ -3,7 +3,7 @@
 
 # Hey, I'm Shayan 👋
 
-### `some random kid from PRC`
+### `Catider`
 
 I'm a self-taught developer from Isfahan, Iran, currently focused on **Python, Artificial Intelligence, and building experimental projects**.
 
